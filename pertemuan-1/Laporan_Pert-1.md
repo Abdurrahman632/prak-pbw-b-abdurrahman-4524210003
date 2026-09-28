@@ -10,15 +10,15 @@
 
 ### Tugas Pertemuan 1
 ### Kalkulator
-Sebelum Modifikasi
+#### Sebelum Modifikasi
 ![Screenshoot Sebelum](https://github.com/Abdurrahman632/prak-pbw-b-abdurrahman-4524210003/blob/59c91cb6e311867bf22e226df19f938e53101d16/pertemuan-1/Screenshot%202026-09-28%20200126.png)
-Setelah Modifikasi
+#### Setelah Modifikasi
 ![Screenshoot Sesudah](https://github.com/Abdurrahman632/prak-pbw-b-abdurrahman-4524210003/blob/59c91cb6e311867bf22e226df19f938e53101d16/pertemuan-1/Screenshot%202026-09-28%20201127.png)
 
 ### Biodata
-Sebelum Modifikasi
+#### Sebelum Modifikasi
 ![Screenshoot Sesudah](https://github.com/Abdurrahman632/prak-pbw-b-abdurrahman-4524210003/blob/59c91cb6e311867bf22e226df19f938e53101d16/pertemuan-1/Screenshot%202026-09-28%20200201.png)
-Setelah Modifikasi
+#### Setelah Modifikasi
 ![Screenshoot Sesudah](https://github.com/Abdurrahman632/prak-pbw-b-abdurrahman-4524210003/blob/59c91cb6e311867bf22e226df19f938e53101d16/pertemuan-1/Screenshot%202026-09-28%20201600.png)
 
 ### 5 Bagian Kode Paling Penting
